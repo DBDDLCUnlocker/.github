@@ -1,13 +1,13 @@
 # Automatic Dead By Daylight DLC Unlocker
 
-**An easy and automatic tool that can unlock DLCs including chracters characters, skins, items & perks by utilizing a CreamAPI injection. Works on Steam and Epic Games versions of the game
+An easy and automatic tool that can unlock DLCs including chracters characters, skins, items & perks by utilizing a CreamAPI injection. Works on Steam and Epic Games versions of the game
 
 ---
 
 
 ## 🔗 Latest Release of DBD DLC Unlocker
 
-- 💾 Version 5.0.0.5** – *Tool files & folders*  
+- 💾 **Version 5.0.0.5** – *Tool files & folders*  
   👉 [The Latest Release](https://github.com/DBDDLCUnlocker/.github/releases)
   
 * **Platform:** Windows
